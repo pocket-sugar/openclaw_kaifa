@@ -1,0 +1,20 @@
+[
+  {
+    "email": "user1@mails.org",
+    "password": "DeepSeekAuto@2026",
+    "registered_at": "2026-03-20T10:05:00",
+    "status": "active"
+  },
+  {
+    "email": "user2@maildrop.cc",
+    "password": "DeepSeekAuto@2026",
+    "registered_at": "2026-03-19T15:35:00",
+    "status": "active"
+  },
+  {
+    "email": "user3@fakemail.net",
+    "password": "DeepSeekAuto@2026",
+    "registered_at": "2026-03-18T12:50:00",
+    "status": "active"
+  }
+]

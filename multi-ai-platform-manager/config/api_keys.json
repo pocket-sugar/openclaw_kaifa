@@ -1,0 +1,35 @@
+[
+  {
+    "api_key": "sk-1234567890abcdefghijklmnopqrstuvwxyz",
+    "email": "user1@mails.org",
+    "created_at": "2026-03-20T10:00:00",
+    "total_quota": 1000000,
+    "used_quota": 950000,
+    "remaining_quota": 50000,
+    "percentage_remaining": 5.0,
+    "is_active": true,
+    "last_checked": "2026-03-21T08:00:00"
+  },
+  {
+    "api_key": "sk-abcdefghijklmnopqrstuvwxyz1234567890",
+    "email": "user2@maildrop.cc",
+    "created_at": "2026-03-19T15:30:00",
+    "total_quota": 1000000,
+    "used_quota": 300000,
+    "remaining_quota": 700000,
+    "percentage_remaining": 70.0,
+    "is_active": true,
+    "last_checked": "2026-03-21T08:00:00"
+  },
+  {
+    "api_key": "sk-0987654321zyxwvutsrqponmlkjihgfedcba",
+    "email": "user3@fakemail.net",
+    "created_at": "2026-03-18T12:45:00",
+    "total_quota": 1000000,
+    "used_quota": 990000,
+    "remaining_quota": 10000,
+    "percentage_remaining": 1.0,
+    "is_active": true,
+    "last_checked": "2026-03-21T08:00:00"
+  }
+]

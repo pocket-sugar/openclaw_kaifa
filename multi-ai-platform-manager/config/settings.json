@@ -1,0 +1,35 @@
+{
+  "threshold_percent": 10,
+  "check_interval_minutes": 5,
+  "max_failures": 3,
+  "headless": true,
+  "password_pattern": "DeepSeekAuto@2026",
+  "api_key_storage": "config/api_keys.json",
+  "registered_accounts_file": "config/registered_accounts.json",
+  "email_services": [
+    {
+      "name": "mails_org",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "name": "maildrop",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "name": "fakemail",
+      "enabled": true,
+      "priority": 3
+    },
+    {
+      "name": "guerrilla_mail",
+      "enabled": true,
+      "priority": 4
+    }
+  ],
+  "captcha_solver": "hybrid",
+  "debug_mode": false,
+  "save_screenshots": true,
+  "screenshot_dir": "logs/screenshots"
+}
